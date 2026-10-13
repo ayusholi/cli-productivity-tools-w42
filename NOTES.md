@@ -1,12 +1,7 @@
 # Notes
 
-## Overview
+Last updated: 2026-10-13T13:00:00.904Z
 
-Work in progress.
+## Progress
 
-## TODO
-
-- [ ] Define requirements
-- [ ] Implement core functionality
-- [ ] Add tests
-- [ ] Write documentation
+- add environment variable support
