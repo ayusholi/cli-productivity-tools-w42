@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- update changelog with recent changes
-- Updated: 2026-10-15T13:00:02.045Z
+- add end-to-end test suite
+- Updated: 2026-10-24T13:00:01.188Z
