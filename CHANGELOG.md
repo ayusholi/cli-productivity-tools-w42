@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- prevent XSS vulnerability in output
-- Updated: 2026-10-26T13:00:03.611Z
+- implement pagination for list endpoints
+- Updated: 2026-10-28T13:00:01.045Z
